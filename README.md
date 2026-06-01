@@ -93,7 +93,7 @@ Through this project, I learned:
 
 ## 👩‍💻 Author
 
-Hemavathi
+Hemavathi R
 
 Computer Science and Engineering Student
 
